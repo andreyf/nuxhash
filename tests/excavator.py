@@ -23,7 +23,7 @@ stratums = {
     }
 
 my_settings = settings.DEFAULT_SETTINGS
-my_settings['nicehash']['wallet'] = '3Qe7nT9hBSVoXr8rM2TG6pq82AmLVKHy23'
+my_settings['nicehash']['wallet'] = '35W1oyYVVEbkAhA7Uz7fJvSvmNGNuVrYEF'
 
 exc = miners.excavator.Excavator(my_settings, stratums)
 exc.load()
