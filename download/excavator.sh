@@ -1,7 +1,7 @@
 #!/bin/sh
 
-VERSION='1.5.8a'
-MD5='e42a0b22b6c0ee0ea76c94d9d5262c34'
+VERSION='1.5.10a'
+MD5='75ded63884f6d20b950e749313dc9450'
 
 case "$1" in
 verify)
