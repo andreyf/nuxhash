@@ -25,7 +25,8 @@ ALGORITHMS = [
     #'nist5',
     'cryptonightV7',
     'lyra2z',
-    'x16r'
+    'x16r',
+    'cryptonightV8'
     ]
 
 class ExcavatorError(Exception):
